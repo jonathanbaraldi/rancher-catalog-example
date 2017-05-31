@@ -10,7 +10,3 @@ mysql:
         - mysqldata:/var/lib/mysql
     ports:
         - ${HOST_MYSQL_PORT}:3306
-
-        
-
-
